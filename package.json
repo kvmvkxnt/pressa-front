@@ -1,0 +1,10 @@
+{
+  "name": "pressa-frontend",
+  "version": "1.0.0",
+  "description": "A rebuild of my failed exam frontend.",
+  "main": "src/index.js",
+  "repository": "https://github.com/kvmvkxnt/pressa-front",
+  "author": "kvmvkxnt <kamron1007dada@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
